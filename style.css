@@ -1,0 +1,18 @@
+#children{
+    font-weight: bold;
+    color:black;
+}
+#buttons{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:black;
+}
+#buttonsort{
+display: none;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+body{
+    background-color: blueviolet;
+}
